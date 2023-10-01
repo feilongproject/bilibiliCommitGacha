@@ -6,6 +6,10 @@
     "keywords": [],
     "author": "feilongproject",
     "license": "AGPL",
+    "scripts": {
+        "record": "ts-node src/record.ts",
+        "gacha": "ts-node src/gacha.ts"
+    },
     "devDependencies": {
         "@tsconfig/node18": "^2.0.1",
         "@types/node": "^18.16.17",
