@@ -17,5 +17,5 @@
 
 ## 鸣谢
 
--   API 提供：(SocialSisterYi/bilibili-API-collect)[https://github.com/SocialSisterYi/bilibili-API-collect]
+-   API 提供：[SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
 -   ~~我自己~~
